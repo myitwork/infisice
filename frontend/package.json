@@ -1,0 +1,40 @@
+{
+    "name": "infisice",
+    "version": "1.0.0",
+    "description": "e-commerce application",
+    "main": "index.js",
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "next lint"
+    },
+    "keywords": [
+      "ecommerce",
+      "next.js",
+      "react",
+      "shopping-cart"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^1.5.1",       
+      "next": "13.5.6",         
+      "react": "18.2.0",         
+      "react-dom": "18.2.0",     
+      "swr": "^2.1.0", 
+    "@mui/material": "^6.1.9",
+    "@mui/icons-material": "^6.1.9",
+    "@mui/lab": "^6.0.0-beta.17",
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.13.5"  
+    },
+    "devDependencies": {
+      "eslint": "8.50.0",             
+      "eslint-config-next": "13.5.6", 
+      "tailwindcss": "^3.3.3",        
+      "postcss": "^8.4.24",           
+      "autoprefixer": "^10.4.17"     
+    }
+  }
+  
